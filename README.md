@@ -1,10 +1,12 @@
-## Hi there 👋
+ ## Hi there 👋
 
 - 🔭 I’m currently working on the Hello World project
 - 🌱 I’m currently learning Python and Javascript
 - 📫 How to reach me: rishichitnis007@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a ☕️ dependent person
+----------------------------------------
+I joined GitHub **0** years ago. Since then I pushed **158** commits, opened **9** issues, submitted **22** pull requests, received **23** stars across **12** personal projects, and contributed to **16** public repositories.
 ----------------------------------------
 ### My Recent Activity
 <!--START_SECTION:activity-->
