@@ -1,4 +1,5 @@
- ## Hi there 👋
+ ## Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="34">
+<br><br>
 
 - 🔭 I’m currently working on the Hello World project
 - 🌱 I’m currently learning Python and Javascript
@@ -6,7 +7,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a ☕️ dependent person
 ----------------------------------------
-I joined GitHub **0** years ago. Since then I pushed **198** commits, opened **10** issues, submitted **23** pull requests, received **26** stars across **12** personal projects, and contributed to **16** public repositories.
+I joined GitHub **0** years ago. Since then I pushed **199** commits, opened **10** issues, submitted **23** pull requests, received **26** stars across **12** personal projects, and contributed to **16** public repositories.
 ----------------------------------------
 ### My Recent Activity
 <!--START_SECTION:activity-->
