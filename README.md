@@ -1,4 +1,8 @@
- ## Hi there 👋
+## Hi There <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="34">
+<br><br>
+
+<br><br>
+
 
 - 🔭 I’m currently working on the Hello World project
 - 🌱 I’m currently learning Python and Javascript
