@@ -22,6 +22,5 @@ I joined GitHub **{{ ACCOUNT_AGE }}** years ago. Since then I pushed **{{ COMMIT
 
 ---
 ![My PR Stats](https://github-pr-stats-five.vercel.app/api/github-pr-stats?username=rishichitnis007)
-person
 ---
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
