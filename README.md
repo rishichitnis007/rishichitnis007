@@ -7,7 +7,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a ☕️ dependent person
 ---
-I joined GitHub **0** years ago. Since then I pushed **203** commits, opened **10** issues, submitted **23** pull requests, received **26** stars across **12** personal projects, and contributed to **16** 
+I joined GitHub **0** years ago. Since then I pushed **202** commits, opened **10** issues, submitted **22** pull requests, received **20** stars across **12** personal projects, and contributed to **15** 
 ---
 ### My Github Streak
 <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
